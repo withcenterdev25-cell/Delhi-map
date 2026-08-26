@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+._*
+
+# Tiled: per-user UI state (open tabs, scroll position). The .tiled-project
+# file IS shared; the .tiled-session file is personal and causes noisy conflicts.
+*.tiled-session
+
+# Flutter game project: tracked in its own repo, not here
+game
