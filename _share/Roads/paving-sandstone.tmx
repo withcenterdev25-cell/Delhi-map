@@ -3,8 +3,8 @@
  <tileset firstgid="1" source="paving-sandstone.tsx"/>
  <layer id="1" name="Tile Layer 1" width="3" height="4">
   <data encoding="csv">
-4,4,1,
-6,6,3,
+4,1,1,
+6,3,3,
 4,4,4,
 6,6,6
 </data>
