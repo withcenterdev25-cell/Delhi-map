@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.10" tiledversion="1.12.2" name="parks" tilewidth="1774" tileheight="1024" tilecount="20" columns="0">
+<tileset version="1.10" tiledversion="1.12.2" name="parks" tilewidth="1774" tileheight="1024" tilecount="23" columns="0">
  <grid orientation="orthogonal" width="1" height="1"/>
  <tile id="3">
   <image source="raj-ghat.png" width="415" height="297"/>
@@ -60,5 +60,14 @@
  </tile>
  <tile id="23">
   <image source="red fort.png" width="787" height="517"/>
+ </tile>
+ <tile id="24">
+  <image source="delhi-pond.png" width="1672" height="941"/>
+ </tile>
+ <tile id="25">
+  <image source="../Object-order/Buildings/p-house.png" width="1576" height="875"/>
+ </tile>
+ <tile id="26">
+  <image source="canopy-circle-pavement.png" width="1774" height="887"/>
  </tile>
 </tileset>
