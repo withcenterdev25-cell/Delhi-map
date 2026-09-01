@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tileset version="1.10" tiledversion="1.12.2" name="trees-and-buildings" tilewidth="286" tileheight="337" tilecount="8" columns="0">
+<tileset version="1.10" tiledversion="1.12.2" name="trees-and-buildings" tilewidth="286" tileheight="337" tilecount="7" columns="0">
  <grid orientation="orthogonal" width="1" height="1" />
  <tile id="13">
   <image source="tree-broadleaf.webp" width="230" height="318" />
@@ -12,9 +12,6 @@
  </tile>
  <tile id="18">
   <image source="reference-willow-tree-03.png" width="204" height="337" />
- </tile>
- <tile id="19">
-  <image source="reference-willow-tree-05.png" width="254" height="313" />
  </tile>
  <tile id="20">
   <image source="reference-willow-tree-06.png" width="233" height="295" />

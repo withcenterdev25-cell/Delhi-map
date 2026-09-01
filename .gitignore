@@ -8,3 +8,13 @@
 
 # Flutter game project: tracked in its own repo, not here
 game
+
+# External reference repo, cloned locally: https://github.com/ronnie839/ground-image-prompt
+ground-image-prompt/
+
+# External reference repo, cloned locally: https://github.com/ronnie839/imagen
+imagen/
+
+# Python bytecode
+__pycache__/
+*.pyc

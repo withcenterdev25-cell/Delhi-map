@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.10" tiledversion="1.12.2" name="parks" tilewidth="1774" tileheight="1024" tilecount="23" columns="0">
+<tileset version="1.10" tiledversion="1.12.2" name="parks" tilewidth="1774" tileheight="1024" tilecount="21" columns="0">
  <grid orientation="orthogonal" width="1" height="1"/>
  <tile id="3">
   <image source="raj-ghat.png" width="415" height="297"/>
@@ -19,9 +19,6 @@
  <tile id="8">
   <image source="shanti-van.png" width="1774" height="887"/>
  </tile>
- <tile id="9">
-  <image source="chair.png" width="231" height="159"/>
- </tile>
  <tile id="10">
   <image source="light.png" width="56" height="225"/>
  </tile>
@@ -30,9 +27,6 @@
  </tile>
  <tile id="12">
   <image source="circle-shade.png" width="245" height="238"/>
- </tile>
- <tile id="13">
-  <image source="square-shade.png" width="217" height="228"/>
  </tile>
  <tile id="14">
   <image source="a5197a1e-e861-4a4c-ab9d-1eb91f0df13d.png" width="1536" height="1024"/>
